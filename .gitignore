@@ -6,7 +6,11 @@ __pycache__/
 # C extensions
 *.so
 
-# Distribution / packaging
+# .DS_Store
+.DS_Store
+
+
+# Distribution / packagingDS
 .Python
 build/
 develop-eggs/
